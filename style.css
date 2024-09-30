@@ -57,7 +57,7 @@ li a:hover{
 
 section img{
     height: 900px;
-    overflow: visible;
+    overflow-block: 0px;
 }
 .about{
     border-radius: 8px;
